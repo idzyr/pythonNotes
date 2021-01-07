@@ -11,4 +11,8 @@
 * [关键词](./basis/key_words.md)
 * [基础语法](./basis/basic-grammar/basic_grammar.md)
   * [注释](./basis/basic-grammar/note.md)
-  * 
+  * [转义字符](./basis/basic-grammar/escape_character.md)
+  * [运算符](./basis/basic-grammar/operator.md)
+  * [变量](./basis/basic-grammar/variable.md)
+  * [条件控制](./basis/basic-grammar/condition_control.md)
+  * [循环结构](./basis/basic-grammar/circulation.md)
