@@ -16,3 +16,5 @@
   * [变量](./basis/basic-grammar/variable.md)
   * [条件控制](./basis/basic-grammar/condition_control.md)
   * [循环结构](./basis/basic-grammar/circulation.md)
+  * [函数]()
+  * 
