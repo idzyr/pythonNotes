@@ -9,6 +9,9 @@
   * [解释器方式](./basis/run-python-program/interpreter.md)
   * [交互式](./basis/run-python-program/interactive.md)
 * [关键词](./basis/key_words.md)
+* [数据类型](./basis/data-type/data_type.md)
+  * [列表](./basis/data-type/list.md)
+  * [tuple【元组】](./basis/data-type/tuple.md)
 * [基础语法](./basis/basic-grammar/basic_grammar.md)
   * [注释](./basis/basic-grammar/note.md)
   * [转义字符](./basis/basic-grammar/escape_character.md)
@@ -16,5 +19,4 @@
   * [变量](./basis/basic-grammar/variable.md)
   * [条件控制](./basis/basic-grammar/condition_control.md)
   * [循环结构](./basis/basic-grammar/circulation.md)
-  * [函数]()
-  * 
+  * [函数](basis/basic-grammar/function.md)
